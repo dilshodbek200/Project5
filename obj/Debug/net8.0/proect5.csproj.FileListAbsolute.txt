@@ -1,0 +1,14 @@
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.AssemblyInfoInputs.cache
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.AssemblyInfo.cs
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.csproj.CoreCompileInputs.cache
+C:\Users\hp\PROECTS\proect5\bin\Debug\net8.0\proect5.exe
+C:\Users\hp\PROECTS\proect5\bin\Debug\net8.0\proect5.deps.json
+C:\Users\hp\PROECTS\proect5\bin\Debug\net8.0\proect5.runtimeconfig.json
+C:\Users\hp\PROECTS\proect5\bin\Debug\net8.0\proect5.dll
+C:\Users\hp\PROECTS\proect5\bin\Debug\net8.0\proect5.pdb
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.dll
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\refint\proect5.dll
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.pdb
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\proect5.genruntimeconfig.cache
+C:\Users\hp\PROECTS\proect5\obj\Debug\net8.0\ref\proect5.dll
